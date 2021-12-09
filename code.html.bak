@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <title>Aruuzhan</title>
+   </head>
+   <body>
+   <table border ="1" width="200" height="300" align="center">
+   <caption>(zagalovok dlya table)</caption>
+   <tr bgcolor ="blue" >
+   <td> mozhno ukazat' tekst <td>
+   </td> </td>
+   </tr>
+   
+     <tr>
+   <td> <td>
+   </td> </td>
+   </tr>
+   
+     <tr bgcolor = "yellow">
+   <td> my ne v kurse <td>
+   </td>otkuda tyyy </td>
+   </tr>
+   
+     <tr>
+   <td> <td>
+   </td> </td>
+   </tr>
+   
+     <tr>
+   <td> <td>
+   </td> </td>
+   </tr>
+   
+     <tr>
+   <td> <td>
+   </td> </td>
+   </tr>
+   
+     <tr>
+   <td> <td>
+   </td> </td>
+   </tr>
+    
+   </table>
+   
+   </body>
+   </html>
+   
